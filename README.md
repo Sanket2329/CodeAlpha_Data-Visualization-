@@ -1,4 +1,6 @@
 # CodeAlpha_Data-Visualization-
+![ NETFLIX LOGO](https://github.com/Sanket2329/NETFLIX_SQL_PROJECT/blob/main/logo.png)
+
 # 🎵 Spotify Songs Dataset – Data Visualization Project
 
 This project is part of **CodeAlpha Data Analytics Internship (Task 3: Data Visualization)**.  
