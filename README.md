@@ -1,5 +1,5 @@
 # CodeAlpha_Data-Visualization-
-![ NETFLIX LOGO](https://github.com/Sanket2329/NETFLIX_SQL_PROJECT/blob/main/logo.png)
+!(https://github.com/Sanket2329/CodeAlpha_Data-Visualization-/blob/main/data%20visualization%20.png)
 
 # 🎵 Spotify Songs Dataset – Data Visualization Project
 
